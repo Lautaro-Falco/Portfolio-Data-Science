@@ -32,6 +32,17 @@ Incluye:
 📂 Podés ver y descargar toda la documentación completa desde este enlace:  
 👉 [Acceder a la carpeta de Google Drive](https://drive.google.com/drive/u/0/folders/1LT9MOvAKBs7QCaih4wtsvXq6vjncAPZ9)
 
+
+## 📑 Documentación y archivos disponibles
+
+En la carpeta de Google Drive están incluidos todos los recursos del proyecto:
+
+- `queries.sql`: script con todas las consultas en **SQL Server** utilizadas.  
+- `pbi_dashboard.pbix`: archivo de **Power BI** con los dashboards de los puntos 1, 2 y 5.  
+- `csv/`: carpeta con **todos los datasets exportados** (uno por cada query de los puntos 1 al 10).  
+- `consignas.pdf`: enunciado original del trabajo práctico.  
+- `documentacion_final.pdf`: entrega final con la **presentación completa en Canva** (storytelling, análisis y conclusiones).  
+- `colab_notebook.ipynb`: notebook con el código en **Python/Colab** para los análisis y gráficos de
 ---
 
 ## 📊 Principales Insights
