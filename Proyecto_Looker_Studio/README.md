@@ -79,22 +79,16 @@ El dashboard está diseñado con foco en claridad visual, coherencia y **storyte
 
 ---
 
-## 🧩 Capturas del Dashboard  
-*(Actualizar una vez subidas las imágenes al repo)*
-
-![](./img/dashboard_temporal.png)  
-![](./img/dashboard_productos.png)  
-![](./img/dashboard_clientes.png)  
-
----
-
 ## 🔗 Enlaces
 
 📍 **Dashboard online (Looker Studio):**  
-👉 *(Agregar aquí)*  
+👉 *https://lookerstudio.google.com/reporting/bb365afa-3c34-46c2-a6ef-c47711a74935*  
 
 📄 **Google Sheets – Datos + Documentación:**  
-👉 *(Agregar aquí)*  
+👉 *https://docs.google.com/spreadsheets/d/1smzqtadKa3SchBL9mgBOdmmHCAyTtZDzQynPhcraJ00/edit?gid=921458717#gid=921458717*
+
+📄 **Google drive – Documentación:** 
+👉 *https://drive.google.com/drive/folders/1-ylkgF0sLx7rLpr9MRgDl_FUuSe426H5*
 
 ---
 
@@ -123,6 +117,5 @@ El análisis evidencia que **Foodpanda** tiene una operación sólida pero con p
 ---
 
 👤 **Autor:**  
-Lautaro Falco  
-Data Analyst | Looker Studio | Sheets | SQL | Visualización de Datos  
-🔗 LinkedIn: *(agregar aquí)*
+Lautaro Falco   
+🔗 LinkedIn: *https://www.linkedin.com/in/lautaro-gabriel-falco/*
