@@ -14,6 +14,7 @@ Podés ver y ejecutar el notebook completo en Google Colab desde el siguiente en
 https://colab.research.google.com/drive/1KgvhPQ77wS1InEwpDjgCH8e4rZA10RmC#scrollTo=nF4R6653C3m9
 
 👉 **Abrir en Drive con el csv**
+
 https://drive.google.com/drive/folders/1r5UqtYdmy9RZnrEBcwncjKoLKC2_uVd-
 
 ---
