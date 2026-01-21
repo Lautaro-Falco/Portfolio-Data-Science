@@ -10,7 +10,8 @@ El objetivo principal fue construir una **Red Neuronal Artificial** capaz de lee
 
 Puedes visualizar el notebook completo con todo el código y análisis, o acceder a los datos originales:
 
-* 👉 **[Abrir Notebook en Google Colab](TU_LINK_DE_COLAB_AQUI)**
+* 👉 **[Abrir Carpeta en Drive](https://drive.google.com/drive/folders/18w7DEwqwPYFg0bH38rvtn7BSndFdHVSp)**
+* 👉 **[Abrir Notebook en Google Colab](https://colab.research.google.com/drive/17AYABl-T0RmC4r1ZYsvXDvpAtn7WMgPM#scrollTo=Udq3Eb913tmS)**
 * 👉 **[Ver Dataset en Kaggle](https://www.kaggle.com/datasets/bwandowando/uberm-fb-waze-etc-us-apple-app-store-reviews)**
 * 📂 **Archivo:** `Proyecto_Data_Science_III.ipynb`
 
@@ -31,7 +32,7 @@ Puedes visualizar el notebook completo con todo el código y análisis, o accede
 
 Antes de modelar, se analizaron los patrones en los datos. Se descubrió una distribución **bimodal**: los usuarios aman u odian el servicio, con muy pocos puntos medios.
 
-![Distribución y Wordcloud](LINK_A_LA_IMAGEN_DE_GRAFICOS_EDA.png)
+![Distribución y Wordcloud](https://github.com/Lautaro-Falco/Portfolio-Data-Science/blob/main/Proyecto_Data_Science_III/Captura%20de%20pantalla%202026-01-21%20131118.png)
 *(Gráficos: Distribución de Ratings, Longitud de Reseña vs Rating y WordCloud de quejas)*
 
 ### 💡 Principales Insights:
