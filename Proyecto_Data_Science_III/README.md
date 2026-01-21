@@ -91,5 +91,5 @@ Sin embargo, se observó que el modelo complejo tiende al *overfitting* más rá
 ## 👨‍💻 Autor
 
 **Lautaro Falco**
-*Data Science Student | Business Analytics | Machine Learning*
-📫 **Contacto:** [Tu Perfil de LinkedIn]
+*Data Science | Business Analytics | Machine Learning*
+📫 **Contacto:** [https://www.linkedin.com/in/lautaro-gabriel-falco/]
